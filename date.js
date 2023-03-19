@@ -1,4 +1,4 @@
-module.exports = function (){
+module.exports = function getDate (){
     const today = new Date();
     
     const options = {
